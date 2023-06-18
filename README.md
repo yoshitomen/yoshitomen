@@ -42,6 +42,9 @@ https://yoshitomen.github.io/
 #### Tools
 ![](https://img.shields.io/badge/-GitLab-informational?logo=gitlab)
 ![](https://img.shields.io/badge/-VScode-213a70?logo=VisualStudioCode)
+![](https://img.shields.io/badge/-Photoshop-00183F?logo=AdobePhotoshop)
+![](https://img.shields.io/badge/-Lightroom-00133A?logo=AdobeLightroom)
+![](https://img.shields.io/badge/-LaTeX-008080?logo=LaTeX)
 
 
 
