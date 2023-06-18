@@ -3,6 +3,7 @@
 https://yoshitomen.github.io/
 
 ## Account Profile
+### Summary
 ![](https://raw.githubusercontent.com/yoshitomen/yoshitomen/main/profile-summary-card-output/apprentice/0-profile-details.svg)
 <br>
 
@@ -26,9 +27,23 @@ https://yoshitomen.github.io/
 
 ### Stats
 ![](https://img.shields.io/badge/-GitHub-black?logo=github)
-![](https://img.shields.io/badge/-GitLab-informational?logo=gitlab)
+
 
 ![](https://raw.githubusercontent.com/yoshitomen/yoshitomen/main/profile-summary-card-output/apprentice/3-stats.svg)&emsp;&nbsp;&thinsp;![](https://raw.githubusercontent.com/yoshitomen/yoshitomen/main/profile-summary-card-output/apprentice/4-productive-time.svg)
+
+### Others
+
+#### OS
+
+![](https://img.shields.io/badge/-macOS-black?logo=Apple)
+![](https://img.shields.io/badge/-Linux-black?logo=linux)
+![](https://img.shields.io/badge/-Windows-informational?logo=Windows)
+
+#### Tools
+![](https://img.shields.io/badge/-GitLab-informational?logo=gitlab)
+![](https://img.shields.io/badge/-VScode-213a70?logo=VisualStudioCode)
+
+
 
 <!--
 **yoshitomen/yoshitomen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
