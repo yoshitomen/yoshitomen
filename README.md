@@ -23,7 +23,7 @@ https://yoshitomen.github.io/
 
 
 
-![](https://raw.githubusercontent.com/yoshitomen/yoshitomen/main/profile-summary-card-output/apprentice/1-repos-per-language.svg)&emsp;&nbsp;&thinsp;![](https://raw.githubusercontent.com/yoshitomen/yoshitomen/main/profile-summary-card-output/apprentice/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/yoshitomen/yoshitomen/main/profile-summary-card-output/apprentice/1-repos-per-language.svg)&emsp;&nbsp;&thinsp;<!--![](https://raw.githubusercontent.com/yoshitomen/yoshitomen/main/profile-summary-card-output/apprentice/2-most-commit-language.svg)-->
 
 ### Stats
 ![](https://img.shields.io/badge/-GitHub-black?logo=github)
